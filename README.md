@@ -30,4 +30,4 @@ You can view the complete code and implementation in my Google Colab notebook:
 👉 [Google Colab Notebook](https://colab.research.google.com/drive/1q33hwRFMLXFlrITwsDxcRWPRpOUAgPPk?usp=sharing)
 
 ---
-*Completed by Md Anwar Hossen (Apon) as part of the freeCodeCamp Machine Learning Curriculum.*
+*Completed by Md. Anwar Hossen as part of the freeCodeCamp Machine Learning Curriculum.*
